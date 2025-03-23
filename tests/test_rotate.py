@@ -31,7 +31,7 @@ class TestImageRotate(unittest.TestCase):
         os.makedirs(self.output_dir, exist_ok=True)
 
         # Rotate the image
-        rotate_image(self.test_input, self.test_output, 90)
+        rotate_image(self.test_input, self.test_output, 45)
 
         # Check if rotated image exists
         self.assertTrue(os.path.exists(self.test_output), "❌ Rotated image was not saved!")

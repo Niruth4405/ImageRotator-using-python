@@ -7,4 +7,9 @@ Image_rotator.egg-info/dependency_links.txt
 Image_rotator.egg-info/top_level.txt
 image_rotator/__init__.py
 image_rotator/rotate.py
+image_rotator.egg-info/PKG-INFO
+image_rotator.egg-info/SOURCES.txt
+image_rotator.egg-info/dependency_links.txt
+image_rotator.egg-info/requires.txt
+image_rotator.egg-info/top_level.txt
 tests/test_rotate.py
