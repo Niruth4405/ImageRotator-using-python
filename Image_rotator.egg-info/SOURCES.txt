@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+Image_rotator.egg-info/PKG-INFO
+Image_rotator.egg-info/SOURCES.txt
+Image_rotator.egg-info/dependency_links.txt
+Image_rotator.egg-info/top_level.txt
+image_rotator/__init__.py
+image_rotator/rotate.py
+tests/test_rotate.py
